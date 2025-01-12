@@ -8,7 +8,7 @@ Clone down the [Zed repository](https://github.com/zed-industries/zed).
 
 ## Dependencies
 
-1. Install [rustup](https://www.rust-lang.org/tools/install).
+1. Install [Rust](https://www.rust-lang.org/tools/install).
 2. Install [Visual Studio](https://visualstudio.microsoft.com/downloads/) with the optional components:
    - `MSVC v*** - VS YYYY C++ x64/x86 build tools`
    - `MSVC v*** - VS YYYY C++ x64/x86 Spectre-mitigated libs (latest)`
